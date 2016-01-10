@@ -8,7 +8,11 @@ import android.graphics.Paint;
 import android.graphics.Rect;
 import android.util.AttributeSet;
 import android.view.View;
-
+/**
+ * test
+ * @author bio
+ *
+ */
 public class XwEditText extends View {
 
 	/**
